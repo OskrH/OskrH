@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
 <h3 align="center">A passionate web development apprentice</h3>
 
-- 🔭 I’m currently working on **A Sports**
+- 🔭 I’m currently learning  ** Full Stack Developrer**
 
 - 💬 Ask me about **movies and video games**
 
